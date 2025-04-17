@@ -24,7 +24,6 @@ function App() {
     </div>
   );
   
-  <div classname="watermark">Vishnupriya👾</div>
 }
 
 export default App;
