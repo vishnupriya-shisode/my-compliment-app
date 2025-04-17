@@ -20,8 +20,11 @@ function App() {
     <div className="App">
       <h1>{compliments[index]}</h1>
       <button onClick={showNextCompliment}>Give me more smiles 💌</button>
+      <div classname="watermark">Vishnupriya👾</div>
     </div>
   );
+  
+  <div classname="watermark">Vishnupriya👾</div>
 }
 
 export default App;

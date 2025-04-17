@@ -5,7 +5,7 @@
 }
 
 h1{
-  fonr-size: 24px;
+  font-size: 24px;
   color:#ff69b4;
 }
 
@@ -23,6 +23,16 @@ button:hover {
   background-color: #ffb6c1;
 }
 
+.watermark{
+  position: fixed;  /* it will stick this in the corner */
+  bottom: 10px;
+  right:10px;
+  font-size: 1.2em;
+  color: rgba(10, 10, 10, 0.5); /* semi-transparent lowkey white*/
+  z-index: 9999; /* this will make sure it stays on the top */
+  font-family: Arial, sans-serif;
+
+}
 
 .App-logo {
   height: 40vmin;
