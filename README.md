@@ -21,3 +21,6 @@ If you'd like to try running it on your own computer:
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/vishnupriya-shisode/my-compliment-app.git
+2. cd my-compliment-app
+3. npm install
+4. npm start
