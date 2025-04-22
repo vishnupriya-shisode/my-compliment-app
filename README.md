@@ -8,7 +8,7 @@ I made a small and cute **Compliment Generator** using React. Just click the but
 
 ## 🛠️ Built With
 
-- React (my first time using it!)
+- React
 - CSS for styling
 - JavaScript for logic
 
